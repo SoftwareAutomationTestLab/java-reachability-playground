@@ -1,4 +1,4 @@
-name: OWASP_ZAP
+name: OWASPZAP
 on: [push]
 
 jobs:
